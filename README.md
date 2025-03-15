@@ -1,7 +1,7 @@
 # Automated Testing Project Repository
 
 ## 📌 Project Overview
-This repository contains automated testing artifacts for the website **Proxify.gg**. The project includes a **Test Plan**, **Test Cases**, **Bug Report**, **Summary Report**, **Mind Map**, and **Selenium Automation Scripts**.
+This repository contains automated testing artifacts for the website **writeWave**. The project includes a **Test Plan**, **Test Cases**, **Bug Report**, **Summary Report**, **Mind Map**, and **Selenium Automation Scripts**.
 
 ## 📂 Repository Structure
 ```
@@ -30,19 +30,7 @@ This repository contains automated testing artifacts for the website **Proxify.g
 - **Maven** (dependency management)
 - **Excel & PDF** (for test documents)
 
-## 🚀 Getting Started
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/automated-testing-project.git
-   ```
-2. **Navigate to the project folder**
-   ```sh
-   cd automated-testing-project
-   ```
-3. **Run the Selenium scripts**
-   ```sh
-   mvn test
-   ```
+
 
 ## 🐞 Bug Tracking
 All identified bugs are documented in **BugReport.xlsx**.
